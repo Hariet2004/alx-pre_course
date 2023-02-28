@@ -1,2 +1,1 @@
-My first readme
-Welcome to my alx-pre_course repository!
+This is the README file for the alx-pre_course repository
