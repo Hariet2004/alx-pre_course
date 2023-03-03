@@ -1,3 +1,2 @@
 This is the README file for the alx-pre_course repository
-This is my file.
-This is my first file.
+The only time I'm changing through my github repository
